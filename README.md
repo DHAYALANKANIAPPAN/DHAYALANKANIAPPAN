@@ -1,91 +1,82 @@
-<!-- ========================= HERO SECTION ========================= -->
-
 <div align="center">
 
-<img src="./assets/cyber-banner.png" width="100%" alt="Cyber Banner"/>
+# DHAYALAN K
 
-<br><br>
+### Cyber Security • Digital Forensics • Cloud Security • DevSecOps
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=root%40dhayalan:~%24+python3+browser_forensics.py;[✓]+Browser+Artifacts+Extracted;[✓]+Threat+Intelligence+Lookup+Completed;root%40cloud:~%24+ansible-playbook+deploy.yml;[✓]+Infrastructure+Automated;root%40community:~%24+flarum+status;[✓]+Community+Online;Always+Learning+•+Always+Building+•+Always+Securing" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Practical+Cyber+Security+Projects;Digital+Forensics+%7C+Threat+Intelligence;Learning+Cloud+Security+%26+DevSecOps;Working+with+AWS+%7C+Grafana+%7C+Ansible;Browser+Forensics+%7C+Website+Fingerprinting;Always+Learning+Something+New..." />
 
-<br><br>
+<br>
 
-<img src="https://img.shields.io/badge/CYBER%20SECURITY-0D1117?style=for-the-badge&logo=hackaday&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/DIGITAL%20FORENSICS-0D1117?style=for-the-badge&logo=probot&logoColor=8B5CF6"/>
-<img src="https://img.shields.io/badge/DEVSECOPS-0D1117?style=for-the-badge&logo=docker&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/CLOUD%20SECURITY-0D1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+![](https://img.shields.io/badge/Cyber%20Security-0D1117?style=for-the-badge&logo=hackthebox&logoColor=38BDF8)
+![](https://img.shields.io/badge/Digital%20Forensics-0D1117?style=for-the-badge&logo=windows-terminal&logoColor=8B5CF6)
+![](https://img.shields.io/badge/Cloud%20Security-0D1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![](https://img.shields.io/badge/DevSecOps-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
 
 </div>
 
 ---
 
-# <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35"> Hello, I'm DHAYALAN K
+# 👋 About Me
 
-### Cyber Security Student • Cloud Security Enthusiast • DevSecOps Learner • Security Researcher
+I'm **Dhayalan K**, a **3rd Year B.E. Cyber Security** student from **Sri Shakthi Institute of Engineering and Technology**.
 
-> *"Turning curiosity into secure solutions through Digital Forensics, Cloud Security and DevSecOps."*
+I enjoy building real-world cybersecurity projects focused on:
+
+- 🔍 Digital Forensics
+- ☁️ Cloud Security
+- ⚙️ DevSecOps
+- 🌐 Network Security
+- 🛡 Threat Intelligence
+- 🧪 Security Research
+
+Currently, I'm expanding my skills through practical projects, CTFs, cloud technologies, and automation.
 
 ---
 
-## 📇 Identity Card
+# 📇 Identity
 
 ```yaml
-Name        : DHAYALAN K
+Name      : DHAYALAN K
 
-Role        : Cyber Security Student
+Role      : Cyber Security Student
 
-Education   : B.E. Cyber Security
-              Sri Shakthi Institute of Engineering
-              & Technology
+College   : Sri Shakthi Institute of Engineering
+            and Technology
 
-Year        : 3rd Year
+Degree    : B.E Cyber Security
 
-CGPA        : 8.27
+Year      : Third Year
 
-Location    : Tiruppur, Tamil Nadu 🇮🇳
+CGPA      : 8.27
 
-Career Goal :
+Location  : Tiruppur, Tamil Nadu
 
-  • Cloud Security Engineer
+Career Goal
 
-  • DevSecOps Engineer
+- Cloud Security Engineer
 
-  • Security Researcher
+- DevSecOps Engineer
 
-Current Focus :
-
-  • Browser Forensics
-
-  • Threat Intelligence
-
-  • AWS Cloud
-
-  • Docker
-
-  • Grafana
-
-  • Ansible
-
-  • Flarum
-
-Status :
-
-  🟢 Building Projects
-  🟢 Learning Everyday
-  🟢 Open to Collaboration
+- Security Researcher
 ```
 
 ---
 
-## ⚡ Current Mission
+# 🚀 Current Focus
 
-<table>
+| Learning | Building |
+|-----------|----------|
+| AWS Cloud | Browser Forensic Tool |
+| Docker | Website Fingerprinting |
+| Grafana | Z-Protocol |
+| Linux | Shahihenna |
+| Ansible | Cloud Monitoring |
+| Threat Intelligence | Automation |
 
-<tr>
+---
 
-<td width="50%">
-
-### 🔍 Research
+# 🧠 Research Interests
 
 - Browser Forensics
 
@@ -93,75 +84,143 @@ Status :
 
 - Website Fingerprinting
 
-- Digital Investigations
-
-- Network Analysis
-
-</td>
-
-<td width="50%">
-
-### ⚙ Development
-
-- AWS Cloud Projects
+- Cloud Security
 
 - DevSecOps
 
-- Docker
+- DFIR
 
-- Grafana
+- Network Monitoring
 
-- Ansible Automation
+- Security Automation
 
-- Flarum Deployment
+---
+
+# 💭 Philosophy
+
+> **Security is a continuous process of learning, understanding, and improving systems—not just finding vulnerabilities.**
+
+---
+
+# ⚡ Current Terminal
+
+```bash
+root@dhayalan:~$
+
+python browser_forensic_tool.py
+
+✔ Browser History Extracted
+
+✔ Cookies Analysed
+
+✔ Timeline Generated
+
+✔ Threat Intelligence Completed
+
+✔ Report Generated
+
+------------------------------
+
+ansible-playbook deploy.yml
+
+✔ Infrastructure Configured
+
+✔ Deployment Successful
+
+------------------------------
+
+docker compose up
+
+✔ Monitoring Stack Running
+
+✔ Grafana Online
+
+✔ Services Healthy
+```
+
+---
+
+# 🛠 Tech Arsenal
+
+Coming in Part 2...
+# 🛠 Tech Arsenal
+
+<div align="center">
+
+*"The right tools don't make a security engineer, but knowing when and how to use them does."*
+
+</div>
+
+---
+
+# 💻 Programming Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript,c,html,css,bash,mysql,mongodb&theme=dark"/>
+
+</p>
+
+<table>
+<tr>
+<td>
+
+### Languages
+
+- 🐍 Python
+- ☕ Java
+- 🌐 JavaScript
+- ⚙️ C
+- 🎨 HTML5
+- 🎨 CSS3
+- 💾 SQL
+- 🐚 Bash
 
 </td>
 
-</tr>
+<td>
 
+### Current Level
+
+- Python • Intermediate
+- Java • Intermediate
+- JavaScript • Intermediate
+- C • Intermediate
+- HTML/CSS • Intermediate
+- SQL • Intermediate
+- Bash • Intermediate
+
+</td>
+</tr>
 </table>
 
 ---
 
+# 🔐 Cyber Security Stack
+
 <div align="center">
 
-### 💭 Philosophy
-
-> **Every packet tells a story. Every artifact leaves evidence. Every vulnerability is an opportunity to learn.**
+| Domain | Tools |
+|---------|------|
+| 🌐 Network Analysis | Wireshark • Nmap |
+| 🕵️ Web Security | Burp Suite |
+| 🔍 Digital Forensics | FTK Imager • Autopsy |
+| 🧩 Steganography | Steghide • ExifTool • Binwalk |
+| 🔑 Password Analysis | John the Ripper • Hydra |
+| 📂 Enumeration | Gobuster • Dirsearch |
+| 🐧 Operating System | Kali Linux • Ubuntu |
 
 </div>
 
-<!-- ========================= END OF PART 1 ========================= -->
-<!-- ===================================================== -->
-<!--                PART 2 : ABOUT & TECH                  -->
-<!-- ===================================================== -->
-
-# <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="35"> About Me
-
-<img align="right" width="340" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2NjNGQ5aWl4MzNjb3Nmb2h5b2o4Mm53d3Q1c2w2Z3YyNGR4NGQ2NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif"/>
-
-I'm **Dhayalan K**, a **3rd Year B.E. Cyber Security student** passionate about building secure systems and exploring the world of Digital Forensics, Cloud Security, and DevSecOps.
-
-I enjoy working on practical security projects that combine **investigation, automation, cloud technologies, and infrastructure security**.
-
-Currently, I'm focused on expanding my knowledge through hands-on projects, CTFs, and research in modern cybersecurity technologies.
-
-### 🎯 Interests
-
-- 🔍 Digital Forensics
-- ☁️ Cloud Security
-- ⚙️ DevSecOps
-- 🌐 Network Security
-- 🛡 Threat Intelligence
-- 🔬 Security Research
-- 📊 Monitoring & Observability
-- 🤖 Infrastructure Automation
-
-<br clear="right"/>
-
 ---
 
-# 🚀 Currently Working On
+# ☁ Cloud & DevSecOps
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,vscode&theme=dark"/>
+
+</p>
 
 <table>
 
@@ -169,35 +228,27 @@ Currently, I'm focused on expanding my knowledge through hands-on projects, CTFs
 
 <td width="50%">
 
-### 🔐 Security Projects
+### Cloud
 
-- 🔍 Browser Forensic Tool
-
-- 🌐 Website Fingerprinting
-
-- ⚛️ Z-Protocol Research
-
-- 📡 Network Traffic Analysis
-
-- 🛡 Threat Intelligence
+- AWS (Learning)
+- EC2
+- IAM
+- VPC
+- Security Groups
+- Cloud Monitoring
 
 </td>
 
 <td width="50%">
 
-### ☁ Cloud & DevOps
-
-- AWS Cloud
+### DevSecOps
 
 - Docker
-
-- Grafana
-
 - Ansible
-
-- Flarum Community Platform
-
-- Linux Automation
+- Linux
+- Git
+- GitHub
+- YAML
 
 </td>
 
@@ -207,124 +258,139 @@ Currently, I'm focused on expanding my knowledge through hands-on projects, CTFs
 
 ---
 
-# ⚡ Tech Arsenal
-
-## 💻 Programming Languages
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,javascript,c,html,css,bash,mysql,mongodb&perline=9"/>
-
-</p>
-
----
-
-## 🛡 Cyber Security
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=linux,docker,git,github,bash&perline=8"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/FTK_Imager-2E86C1?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Autopsy-1E88E5?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Binwalk-111111?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/ExifTool-555555?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Steghide-000000?style=for-the-badge"/>
-
-</p>
-
----
-
-## ☁ Cloud & DevSecOps
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github&perline=8"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Flarum-7A43B6?style=for-the-badge"/>
-
-</p>
-
----
-
-## 🗄 Databases
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&perline=5"/>
-
-</p>
-
----
-
-## 🖥 Development Environment
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=vscode,git,github,linux,docker&perline=6"/>
-
-</p>
-
----
-
-# 📈 Skill Progress
-
-| Skill | Level |
-|:-------------------------------|:------------------------------:|
-| Python | ████████░░ 80% |
-| Java | ████████░░ 80% |
-| Linux | ████████░░ 80% |
-| Networking | ████████░░ 80% |
-| Digital Forensics | ███████░░░ 75% |
-| Threat Intelligence | ███████░░░ 75% |
-| Cloud Security | ██████░░░░ 65% |
-| Docker | ██████░░░░ 65% |
-| AWS | █████░░░░░ 60% |
-| Grafana | █████░░░░░ 60% |
-| Ansible | █████░░░░░ 60% |
-
----
+# 📊 Monitoring & Observability
 
 <div align="center">
 
-## ⚡ Motto
-
-### *"Learn • Build • Break • Secure • Repeat"*
+| Tool | Purpose |
+|------|---------|
+| 📊 Grafana | Dashboards & Visualization |
+| 📈 Prometheus | Metrics Collection *(Learning)* |
+| 🐳 Docker | Containerized Services |
+| 🐧 Linux | Server Management |
 
 </div>
 
-<!-- ================= END OF PART 2 ===================== -->
-<!-- ===================================================== -->
-<!--               PART 3 : FEATURED PROJECTS              -->
-<!-- ===================================================== -->
+---
 
-# <img src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" width="32"> Featured Projects
+# 🗄 Databases
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&theme=dark"/>
+
+</p>
+
+- MySQL
+- MongoDB
+- SQLite
+
+---
+
+# 🧰 Development Environment
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,linux,docker&theme=dark"/>
+
+</p>
+
+**Primary Environment**
+
+- Ubuntu Linux
+- Kali Linux
+- VS Code
+- Git & GitHub
+- Docker
+- Virtual Machines
+
+---
+
+# 📈 Skill Dashboard
+
+```text
+Programming
+
+Python            █████████░░ 85%
+
+Java              ████████░░░ 80%
+
+JavaScript        ████████░░░ 80%
+
+C                 ████████░░░ 80%
+
+SQL               ████████░░░ 80%
+
+Linux             ████████░░░ 80%
+
+Cyber Security
+
+Digital Forensics ████████░░░ 80%
+
+Network Security  ████████░░░ 80%
+
+Threat Intel      ███████░░░░ 75%
+
+CTF               ███████░░░░ 75%
+
+Cloud
+
+AWS               ██████░░░░░ 60%
+
+Docker            ██████░░░░░ 60%
+
+Grafana           █████░░░░░░ 55%
+
+Ansible           █████░░░░░░ 55%
+```
+
+---
+
+# 🎯 Currently Learning
+
+- ☁ AWS Cloud Security
+- ⚙ Infrastructure Automation using Ansible
+- 📊 Grafana Dashboards
+- 🐳 Docker Containers
+- 🔐 Cloud Infrastructure Security
+- 🌐 DevSecOps Practices
+
+---
+
+# 🏆 Certifications
+
+✔ Java Programming
+
+✔ JavaScript
+
+✔ MongoDB
+
+✔ PicoCTF Challenges
+
+🚀 Next Goals
+
+- AWS Cloud Practitioner
+- Security+
+- CEH
+- RHCSA
+- OSCP (Future Goal)
+
+---
 
 <div align="center">
 
-*"Building practical solutions through Cyber Security, Cloud, DevSecOps and Research."*
+## 💡 Favorite Quote
+
+*"Knowledge becomes powerful only when it is applied."*
+
+</div>
+
+---
+# 🚀 Featured Projects
+
+<div align="center">
+
+*"Learning by building. Every project is a step toward becoming a better security engineer."*
 
 </div>
 
@@ -338,22 +404,23 @@ Currently, I'm focused on expanding my knowledge through hands-on projects, CTFs
 
 ## 🔍 Browser Forensic Tool
 
-### 📖 Description
+### 📖 Overview
 
-A cross-browser forensic investigation tool that extracts and analyzes browser artifacts for digital investigations.
+A cross-browser forensic investigation tool developed to assist digital investigations by collecting and analyzing browser artifacts.
 
-### ✨ Features
+### ✨ Key Features
 
-- Browser History Analysis
-- Cookie Extraction
+- Browser History Extraction
+- Cookie Analysis
+- Cache Investigation
 - Download History
-- Cache Analysis
 - Timeline Generation
-- Threat Intelligence Lookup
+- Threat Intelligence Integration
 - HTML Report Generation
-- CSV & JSON Export
+- CSV Export
+- Multi-browser Support
 
-### 🛠 Tech Stack
+### 🛠 Technologies
 
 `Python`
 
@@ -369,7 +436,9 @@ A cross-browser forensic investigation tool that extracts and analyzes browser a
 
 `Threat Intelligence APIs`
 
----
+### 🎯 Goal
+
+Provide investigators with a portable and lightweight browser forensic solution.
 
 **Status**
 
@@ -381,29 +450,31 @@ A cross-browser forensic investigation tool that extracts and analyzes browser a
 
 ## ⚛️ Z-Protocol
 
-### 📖 Description
+### 📖 Overview
 
-A research-oriented post-quantum transport protocol designed to explore secure communication models for future quantum-resistant networking.
+A research-oriented post-quantum transport protocol focused on designing secure communication mechanisms for future quantum-resistant networks.
 
 ### ✨ Features
 
-- Secure Packet Design
-- Protocol Architecture
-- Quantum-resistant Concepts
-- Network Optimization
+- Protocol Design
+- Secure Packet Flow
+- Performance Evaluation
 - Research Documentation
+- Network Optimization
 
-### 🛠 Tech Stack
-
-`Networking`
+### 🛠 Technologies
 
 `Python`
+
+`Networking`
 
 `Cryptography`
 
 `Protocol Design`
 
----
+### 🎯 Goal
+
+Explore modern transport-layer communication for quantum-era networking.
 
 **Status**
 
@@ -425,29 +496,31 @@ A research-oriented post-quantum transport protocol designed to explore secure c
 
 ## 🌐 Website Fingerprinting
 
-### 📖 Description
+### 📖 Overview
 
-A research project focused on identifying websites using encrypted traffic patterns and network characteristics.
+Research project exploring how encrypted network traffic can be analyzed to identify visited websites using traffic patterns.
 
-### Features
+### ✨ Features
 
 - Traffic Analysis
-- Pattern Recognition
+- Packet Inspection
 - Feature Extraction
-- Network Classification
-- Performance Evaluation
+- Classification Research
+- Network Behaviour Study
 
-### Technologies
+### 🛠 Technologies
 
 `Python`
 
-`Networking`
-
 `Wireshark`
+
+`Networking`
 
 `Machine Learning`
 
----
+### 🎯 Goal
+
+Improve understanding of privacy risks in encrypted communications.
 
 **Status**
 
@@ -459,19 +532,19 @@ A research project focused on identifying websites using encrypted traffic patte
 
 ## 🎨 Shahihenna
 
-### 📖 Description
+### 📖 Overview
 
-A booking platform designed for Mehendi artists, enabling clients to discover artists and schedule appointments.
+A web platform designed for Mehendi artists to showcase their work and allow customers to discover artists and book appointments.
 
-### Features
+### ✨ Features
 
-- Artist Profiles
-- Booking System
-- User Authentication
-- Responsive UI
+- Artist Portfolio
+- Appointment Booking
+- Responsive Design
 - Database Integration
+- User-friendly Interface
 
-### Technologies
+### 🛠 Technologies
 
 `HTML`
 
@@ -481,7 +554,9 @@ A booking platform designed for Mehendi artists, enabling clients to discover ar
 
 `MongoDB`
 
----
+### 🎯 Goal
+
+Create a simple and accessible booking platform for Mehendi artists.
 
 **Status**
 
@@ -501,20 +576,20 @@ A booking platform designed for Mehendi artists, enabling clients to discover ar
 
 <td width="50%" valign="top">
 
-## ☁ AWS Monitoring Stack
+## ☁️ AWS Monitoring Dashboard
 
-### 📖 Description
+### 📖 Overview
 
-A cloud monitoring project using Grafana and AWS to visualize infrastructure performance.
+A cloud monitoring project using AWS and Grafana to visualize system health and infrastructure metrics.
 
-### Features
+### ✨ Features
 
-- Monitoring Dashboards
-- Resource Visualization
-- System Metrics
-- Performance Monitoring
+- Resource Monitoring
+- Dashboard Visualization
+- Linux Server Metrics
+- Cloud Performance Tracking
 
-### Technologies
+### 🛠 Technologies
 
 `AWS`
 
@@ -524,7 +599,9 @@ A cloud monitoring project using Grafana and AWS to visualize infrastructure per
 
 `Docker`
 
----
+### 🎯 Goal
+
+Learn cloud monitoring and observability practices.
 
 **Status**
 
@@ -534,30 +611,33 @@ A cloud monitoring project using Grafana and AWS to visualize infrastructure per
 
 <td width="50%" valign="top">
 
-## ⚙ Infrastructure Automation
+## ⚙️ Infrastructure Automation
 
-### 📖 Description
+### 📖 Overview
 
-Infrastructure automation using Ansible for provisioning, configuration, and deployment.
+Automation of Linux server configuration and deployment using Ansible playbooks.
 
-### Features
+### ✨ Features
 
-- Playbooks
-- Configuration Management
-- Automated Deployment
-- Linux Administration
+- Playbook Automation
+- Package Installation
+- Service Configuration
+- Remote Server Management
+- Infrastructure as Code
 
-### Technologies
+### 🛠 Technologies
 
 `Ansible`
 
 `Linux`
 
-`SSH`
-
 `YAML`
 
----
+`SSH`
+
+### 🎯 Goal
+
+Automate repetitive administration tasks and deployment workflows.
 
 **Status**
 
@@ -574,19 +654,23 @@ Infrastructure automation using Ansible for provisioning, configuration, and dep
 # 🏴 Capture The Flag Journey
 
 ```text
-Platform           Progress
+Platform                    Progress
 
-PicoCTF            ████████░░
+PicoCTF                     █████████░░
 
-College CTFs       ███████░░░
+College CTFs                ████████░░
 
-Digital Forensics  ███████░░░
+Digital Forensics           ████████░░
 
-Steganography      ████████░░
+Steganography               ████████░░
 
-Cryptography       ██████░░░░
+Cryptography                ███████░░░
 
-OSINT              ██████░░░░
+OSINT                       ███████░░░
+
+Web Exploitation            ███████░░░
+
+Reverse Engineering         ██████░░░░
 ```
 
 ---
@@ -596,13 +680,228 @@ OSINT              ██████░░░░
 <div align="center">
 
 | Research Area | Current Focus |
-|:--------------|:-------------|
-| 🔍 Digital Forensics | Browser Artifacts |
-| 🌐 Website Fingerprinting | Traffic Analysis |
-| ⚛️ Post Quantum Security | Z-Protocol |
-| ☁ Cloud Security | AWS |
-| ⚙ DevSecOps | Docker & Ansible |
-| 📊 Monitoring | Grafana |
+|:---------------|:-----------------------------|
+| 🔍 Digital Forensics | Browser Artifact Analysis |
+| 🌐 Network Security | Website Fingerprinting |
+| ⚛️ Quantum Networking | Z-Protocol |
+| ☁️ Cloud Security | AWS Infrastructure |
+| ⚙️ DevSecOps | Docker & Ansible |
+| 📊 Monitoring | Grafana Dashboards |
+| 🛡 Threat Intelligence | IOC Analysis |
+
+</div>
+
+---
+
+# 📚 Current Learning Roadmap
+
+```text
+2026
+
+✔ Browser Forensics
+
+✔ Threat Intelligence
+
+✔ Website Fingerprinting
+
+✔ Java
+
+✔ JavaScript
+
+✔ MongoDB
+
+────────────────────────────
+
+2027
+
+✔ Docker
+
+✔ AWS
+
+✔ Grafana
+
+✔ Linux
+
+✔ Ansible
+
+✔ DevSecOps
+
+────────────────────────────
+
+2028
+
+□ Cloud Security
+
+□ Threat Hunting
+
+□ DFIR
+
+□ Security Research
+
+□ Graduate (B.E Cyber Security)
+```
+
+---
+
+<div align="center">
+
+## 🎯 Mission
+
+> **Design. Build. Investigate. Automate. Secure.**
+
+</div>
+
+---
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=DHAYALANKANIAPPAN&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=8B5CF6&text_color=ffffff"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHAYALANKANIAPPAN&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=ffffff"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=DHAYALANKANIAPPAN&theme=github-dark-blue&hide_border=true&background=0D1117&ring=38BDF8&fire=8B5CF6&currStreakLabel=38BDF8"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DHAYALANKANIAPPAN&theme=github-compact&bg_color=0D1117&color=38BDF8&line=8B5CF6&point=ffffff&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=DHAYALANKANIAPPAN&theme=algolia&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+# 📈 Coding Activity
+
+<div align="center">
+
+```text
+Cyber Security      ██████████████████░░ 90%
+
+Python Development  █████████████████░░░ 85%
+
+Research            ████████████████░░░░ 80%
+
+Cloud Security      ████████████░░░░░░░░ 60%
+
+DevSecOps           ███████████░░░░░░░░░ 55%
+
+CTF Practice        ███████████████░░░░░ 75%
+```
+
+</div>
+
+---
+
+# 🎯 2026–2028 Roadmap
+
+<div align="center">
+
+| Year | Goals |
+|------|-------|
+| **2026** | Browser Forensics • AWS • Docker • Grafana • Ansible |
+| **2027** | DevSecOps • Threat Intelligence • Cloud Security • DFIR |
+| **2028** | Graduate • Security Research • Cloud Security Engineer |
+
+</div>
+
+---
+
+# 🌍 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/DHAYALANKANIAPPAN">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/dhaya05">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:dhaya3486@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+</div>
+
+---
+
+# 💼 Open To
+
+<div align="center">
+
+| Opportunities |
+|---------------|
+| 🔐 Cyber Security Internships |
+| ☁️ Cloud Security Projects |
+| ⚙️ DevSecOps Projects |
+| 🔍 Digital Forensics Research |
+| 🏴 CTF Collaborations |
+| 🤝 Open Source Contributions |
+
+</div>
+
+---
+
+# 💬 Personal Motto
+
+<div align="center">
+
+> *"Security is not just about defending systems. It's about understanding how they work, identifying weaknesses, and continuously improving them."*
+
+</div>
+
+---
+
+# 👀 Visitor Counter
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=DHAYALANKANIAPPAN&style=for-the-badge&color=blue"/>
+
+</div>
+
+---
+
+# 💙 Thanks For Visiting
+
+<div align="center">
+
+```text
+██████████████████████████████████████████████████
+
+      Thanks for visiting my GitHub Profile
+
+     Keep Learning • Keep Building • Keep Securing
+
+██████████████████████████████████████████████████
+```
+
+### ⭐ If you like my work, consider following me and checking out my repositories!
 
 </div>
 
@@ -610,12 +909,10 @@ OSINT              ██████░░░░
 
 <div align="center">
 
-## 🎯 Current Objective
+### ⚡ "Every secure system starts with curiosity, continuous learning, and practical experience."
 
-```text
-Learn → Build → Research → Secure → Share
-```
+**DHAYALAN K**
+
+Cyber Security • Cloud Security • Digital Forensics • DevSecOps
 
 </div>
-
-<!-- ================= END OF PART 3 ===================== -->
