@@ -152,7 +152,6 @@ Coming in Part 2...
 </div>
 
 ---
-
 # 💻 Programming Languages
 
 <p align="center">
@@ -169,7 +168,6 @@ Coming in Part 2...
 
 - 🐍 Python
 - ☕ Java
-- 🌐 JavaScript
 - ⚙️ C
 - 🎨 HTML5
 - 🎨 CSS3
@@ -184,7 +182,6 @@ Coming in Part 2...
 
 - Python • Intermediate
 - Java • Intermediate
-- JavaScript • Intermediate
 - C • Intermediate
 - HTML/CSS • Intermediate
 - SQL • Intermediate
