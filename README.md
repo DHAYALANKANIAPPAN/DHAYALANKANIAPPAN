@@ -101,7 +101,6 @@ Career Goal
 > **Security is a continuous process of learning, understanding, and improving systems—not just finding vulnerabilities.**
 
 ---
-
 # ⚡ Current Terminal
 
 ```bash
