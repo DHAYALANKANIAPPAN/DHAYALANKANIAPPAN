@@ -32,7 +32,6 @@ I enjoy building real-world cybersecurity projects focused on:
 
 Currently, I'm expanding my skills through practical projects, CTFs, cloud technologies, and automation.
 
----
 
 # 📇 Identity
 
