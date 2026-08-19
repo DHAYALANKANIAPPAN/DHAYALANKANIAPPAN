@@ -62,18 +62,7 @@ Career Goal
 
 ---
 
-# 🚀 Current Focus
 
-| Learning | Building |
-|-----------|----------|
-| AWS Cloud | Browser Forensic Tool |
-| Docker | Website Fingerprinting |
-| Grafana | Z-Protocol |
-| Linux | Shahihenna |
-| Ansible | Cloud Monitoring |
-| Threat Intelligence | Automation |
-
----
 
 # 🧠 Research Interests
 
