@@ -62,28 +62,6 @@ Career Goal
 
 ---
 
-
-
-# 🧠 Research Interests
-
-- Browser Forensics
-
-- Threat Intelligence
-
-- Website Fingerprinting
-
-- Cloud Security
-
-- DevSecOps
-
-- DFIR
-
-- Network Monitoring
-
-- Security Automation
-
----
-
 # 💭 Philosophy
 
 > **Security is a continuous process of learning, understanding, and improving systems—not just finding vulnerabilities.**
