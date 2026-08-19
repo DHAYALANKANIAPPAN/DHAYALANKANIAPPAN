@@ -88,57 +88,6 @@ Career Goal
 
 > **Security is a continuous process of learning, understanding, and improving systems—not just finding vulnerabilities.**
 
----
-# ⚡ Current Terminal
-
-```bash
-root@dhayalan:~$
-
-python browser_forensic_tool.py
-
-✔ Browser History Extracted
-
-✔ Cookies Analysed
-
-✔ Timeline Generated
-
-✔ Threat Intelligence Completed
-
-✔ Report Generated
-
-------------------------------
-
-ansible-playbook deploy.yml
-
-✔ Infrastructure Configured
-
-✔ Deployment Successful
-
-------------------------------
-
-docker compose up
-
-✔ Monitoring Stack Running
-
-✔ Grafana Online
-
-✔ Services Healthy
-```
-
----
-
-# 🛠 Tech Arsenal
-
-Coming in Part 2...
-# 🛠 Tech Arsenal
-
-<div align="center">
-
-*"The right tools don't make a security engineer, but knowing when and how to use them does."*
-
-</div>
-
----
 # 💻 Programming Languages
 
 <p align="center">
