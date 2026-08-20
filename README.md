@@ -802,13 +802,3 @@ CTF Practice        ███████████████░░░░░
 </div>
 
 ---
-
-<div align="center">
-
-### ⚡ "Every secure system starts with curiosity, continuous learning, and practical experience."
-
-**DHAYALAN K**
-
-Cyber Security • Cloud Security • Digital Forensics • DevSecOps
-
-</div>
