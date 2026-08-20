@@ -255,19 +255,6 @@ Grafana           █████░░░░░░ 55%
 Ansible           █████░░░░░░ 55%
 ```
 
----
-
-# 🎯 Currently Learning
-
-- ☁ AWS Cloud Security
-- ⚙ Infrastructure Automation using Ansible
-- 📊 Grafana Dashboards
-- 🐳 Docker Containers
-- 🔐 Cloud Infrastructure Security
-- 🌐 DevSecOps Practices
-
----
-
 # 🏆 Certifications
 
 ✔ Java Programming
