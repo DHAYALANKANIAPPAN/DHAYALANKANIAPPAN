@@ -783,17 +783,6 @@ CTF Practice        ███████████████░░░░░
 
 ---
 
-# 💙 Thanks For Visiting
-
-<div align="center">
-
-```text
-██████████████████████████████████████████████████
-
-      Thanks for visiting my GitHub Profile
-
-     Keep Learning • Keep Building • Keep Securing
-
 ██████████████████████████████████████████████████
 ```
 
