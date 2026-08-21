@@ -216,45 +216,6 @@ Career Goal
 - Virtual Machines
 
 ---
-
-# 📈 Skill Dashboard
-
-```text
-Programming
-
-Python            █████████░░ 85%
-
-Java              ████████░░░ 80%
-
-JavaScript        ████████░░░ 80%
-
-C                 ████████░░░ 80%
-
-SQL               ████████░░░ 80%
-
-Linux             ████████░░░ 80%
-
-Cyber Security
-
-Digital Forensics ████████░░░ 80%
-
-Network Security  ████████░░░ 80%
-
-Threat Intel      ███████░░░░ 75%
-
-CTF               ███████░░░░ 75%
-
-Cloud
-
-AWS               ██████░░░░░ 60%
-
-Docker            ██████░░░░░ 60%
-
-Grafana           █████░░░░░░ 55%
-
-Ansible           █████░░░░░░ 55%
-```
-
 # 🏆 Certifications
 
 ✔ Java Programming
