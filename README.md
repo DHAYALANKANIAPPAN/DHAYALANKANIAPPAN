@@ -672,21 +672,6 @@ CTF Practice        ███████████████░░░░░
 </div>
 
 ---
-
-# 🎯 2026–2028 Roadmap
-
-<div align="center">
-
-| Year | Goals |
-|------|-------|
-| **2026** | Browser Forensics • AWS • Docker • Grafana • Ansible |
-| **2027** | DevSecOps • Threat Intelligence • Cloud Security • DFIR |
-| **2028** | Graduate • Security Research • Cloud Security Engineer |
-
-</div>
-
----
-
 # 🌍 Connect With Me
 
 <div align="center">
