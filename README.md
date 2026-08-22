@@ -166,22 +166,6 @@ Career Goal
 </tr>
 
 </table>
-
----
-
-# 📊 Monitoring & Observability
-
-<div align="center">
-
-| Tool | Purpose |
-|------|---------|
-| 📊 Grafana | Dashboards & Visualization |
-| 📈 Prometheus | Metrics Collection *(Learning)* |
-| 🐳 Docker | Containerized Services |
-| 🐧 Linux | Server Management |
-
-</div>
-
 ---
 
 # 🗄 Databases
