@@ -650,28 +650,6 @@ Reverse Engineering         ██████░░░░
 </div>
 
 ---
-
-# 📈 Coding Activity
-
-<div align="center">
-
-```text
-Cyber Security      ██████████████████░░ 90%
-
-Python Development  █████████████████░░░ 85%
-
-Research            ████████████████░░░░ 80%
-
-Cloud Security      ████████████░░░░░░░░ 60%
-
-DevSecOps           ███████████░░░░░░░░░ 55%
-
-CTF Practice        ███████████████░░░░░ 75%
-```
-
-</div>
-
----
 # 🌍 Connect With Me
 
 <div align="center">
