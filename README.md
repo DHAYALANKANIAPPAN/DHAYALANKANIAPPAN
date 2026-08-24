@@ -582,18 +582,6 @@ Reverse Engineering         ██████░░░░
 
 □ Graduate (B.E Cyber Security)
 ```
-
----
-
-<div align="center">
-
-## 🎯 Mission
-
-> **Design. Build. Investigate. Automate. Secure.**
-
-</div>
-
----
 # 📊 GitHub Analytics
 
 <div align="center">
@@ -620,16 +608,6 @@ Reverse Engineering         ██████░░░░
 <div align="center">
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DHAYALANKANIAPPAN&theme=github-compact&bg_color=0D1117&color=38BDF8&line=8B5CF6&point=ffffff&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=DHAYALANKANIAPPAN&theme=algolia&no-frame=true&row=1&column=6"/>
 
 </div>
 
