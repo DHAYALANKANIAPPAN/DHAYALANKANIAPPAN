@@ -534,54 +534,6 @@ Reverse Engineering         ██████░░░░
 
 </div>
 
----
-# 📚 Current Learning Roadmap
-
-```text
-2026
-
-✔ Browser Forensics
-
-✔ Threat Intelligence
-
-✔ Website Fingerprinting
-
-✔ Java
-
-✔ JavaScript
-
-✔ MongoDB
-
-────────────────────────────
-
-2027
-
-✔ Docker
-
-✔ AWS
-
-✔ Grafana
-
-✔ Linux
-
-✔ Ansible
-
-✔ DevSecOps
-
-────────────────────────────
-
-2028
-
-□ Cloud Security
-
-□ Threat Hunting
-
-□ DFIR
-
-□ Security Research
-
-□ Graduate (B.E Cyber Security)
-```
 # 📊 GitHub Analytics
 
 <div align="center">
@@ -615,10 +567,6 @@ Reverse Engineering         ██████░░░░
 # 🌍 Connect With Me
 
 <div align="center">
-
-<a href="https://github.com/DHAYALANKANIAPPAN">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
 
 <a href="https://linkedin.com/in/dhaya05">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
