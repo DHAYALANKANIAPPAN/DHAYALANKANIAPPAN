@@ -75,26 +75,6 @@ Career Goal
 </div>
 
 ---
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DHAYALANKANIAPPAN&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=8B5CF6&text_color=ffffff"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHAYALANKANIAPPAN&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=ffffff"/>
-
-</div>
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DHAYALANKANIAPPAN&theme=github-compact&bg_color=0D1117&color=38BDF8&line=8B5CF6&point=ffffff&hide_border=true"/>
-
-</div>
-
----
 # 🌍 Connect With Me
 
 <div align="center">
