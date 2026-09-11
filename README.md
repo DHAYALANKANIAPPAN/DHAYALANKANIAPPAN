@@ -7,7 +7,6 @@
 
 <br>
 
-<!-- Hero Action CTA Buttons -->
 <a href="https://dhayalankaniappan.github.io/Portfolio/">
   <img src="https://img.shields.io/badge/🌐_Visit_Live_Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio" />
 </a>
@@ -26,7 +25,6 @@
 
 <br><br>
 
-<!-- Animated Terminal Typing Banner -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=1200&color=00E5FF&center=true&vCenter=true&width=880&lines=Building+ONey+-+Low-Latency+Remote+System+Control;Automating+Linux+Server+Fleets+with+Ansible;Orchestrating+Containers+on+Amazon+ECS+(Knowledge+Badge);Crafting+Layer-4+Protocols+on+Raw+Python+Sockets;National+24-Hour+CTF+Competitor+(TN+Police+Yukthi);" />
 
 <br>
@@ -41,4 +39,4 @@
 Current Focus : Low-Latency Remote Systems (ONey) & Cloud Container Fleets
 Tech Stack    : Python · Amazon ECS · Docker · Ansible · AWS CDK · Linux · React
 Accreditations: Amazon ECS Knowledge Badge (Credly) · 92% Merit Java+MongoDB
-Academic Base : 3rd-Year B.E. @ Sri Shakthi Institute of Engg & Tech (CGPA: 8.27)
+Academic Base : 3rd-Year B.E. @ Sri Shakthi Institute of Engg & Tech
