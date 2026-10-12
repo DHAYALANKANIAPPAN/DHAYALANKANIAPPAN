@@ -31,7 +31,6 @@
 
 </div>
 
----
 
 ### 💡 Core Engineering Focus
 
