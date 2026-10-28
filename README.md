@@ -38,4 +38,4 @@
 Current Focus : Low-Latency Remote Systems (ONey) & Cloud Container Fleets
 Tech Stack    : Python · Amazon ECS · Docker · Ansible · AWS CDK · Linux · React
 Accreditations: Amazon ECS Knowledge Badge (Credly) · 92% Merit Java+MongoDB
-Academic Base : 3rd-Year B.E. @ Sri Shakthi Institute of Engg & Tech
+Academic Base : 3rd-Year B.E. @Sri Shakthi Institute of Engg & Tech
