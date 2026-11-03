@@ -4,7 +4,6 @@
 
 ### DevOps Specialist & Python Systems Developer · *The Code Whisperer*
 *Automating server fleets, container orchestration, and low-latency network protocols.*
-
 <br>
 
 <a href="https://dhayalankaniappan.github.io/Portfolio/">
