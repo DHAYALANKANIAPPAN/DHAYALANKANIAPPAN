@@ -1,5 +1,4 @@
 <div align="center">
-
 #  Dhayalan Kaniappan
 
 ### DevOps Specialist & Python Systems Developer · *The Code Whisperer*
